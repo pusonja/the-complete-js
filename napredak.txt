@@ -1,0 +1,12 @@
+24.1.	01 - Welcome, Welcome, Welcome_
+	02 - JavaScript Fundamentals – Part 1
+		001 Section Intro
+26.1.		002 Hello World_
+		003 A Brief Introduction to JavaScript
+		004 Linking a JavaScript File
+		005 Values and Variables
+		006 Practice Assignments - zadatak 1
+28.1.		007 Data Types - zadatak 2
+		008 let, const and var - zadatak 3
+31.1.		009 Basic Operators
+1.2.		010 Operator Precedence
